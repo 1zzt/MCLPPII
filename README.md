@@ -1,7 +1,7 @@
 # MCLPPII
 
 ## 1. overview
-![image](https://github.com/1zzt/MCLPPII/blob/main/image/overview.pdf)
+![image](https://github.com/1zzt/MCLPPII/blob/main/image/overview.jpg)
 ## 2. Prerequisites
 - python 3.9.0
 - pytorch 1.12.0
