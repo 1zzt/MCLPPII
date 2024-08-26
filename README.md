@@ -1,4 +1,6 @@
 # MCLPPII
+**Multimodal Contrastive Learning for Protein–Protein Interaction Inhibitor Prediction**
+
 
 ## 1. overview
 ![image](https://github.com/1zzt/MCLPPII/blob/main/image/overview.jpg)
